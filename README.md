@@ -1,7 +1,7 @@
 ## Hi, I'm Nayem Ishan 😊
 #### Web Designer & Developer
 
-I am a wave designer and developer. I like coding very much. Usually, I work with HTML, CSS, Bootstrap, JQuery, WordPress, PHP. I have worked on several types of websites and a school management website I created is currently running in a school. I have always loved learning new technologies.
+I am a web designer and developer. I like coding very much. Usually, I work with HTML, CSS, Bootstrap, JQuery, WordPress, PHP. I have worked on several types of websites and a school management website I created is currently running in a school. I have always loved learning new technologies.
 
 Skills: HTML / CSS / Bootstrap / jQuery / SASS / WordPress / PHP
 
