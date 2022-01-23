@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nayemishan686](https://github.com/nayemishan686)
+- 👨‍💻 All of my projects are available at [https://github.com/nayemishan686](https://nayemishan686.github.io/portfolio/)
 
 - 💬 Ask me about **Anything what will be my profession related**
 
