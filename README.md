@@ -145,11 +145,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayemishan686&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9)
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=nayemishan686&theme=react&hide_border=true&background=0D1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayemishan686&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64ffda&text_color=c9d1d9)
 
 
 </div>
