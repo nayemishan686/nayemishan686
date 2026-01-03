@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73444a6d6a56444f63525f365a775a52616a3075552f707265766965772e676966"/>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 **Lead Software Engineer** at **Dot NET IT**
 
@@ -145,8 +145,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nayemishan686&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nayemishan686&theme=react&hide_border=true&background=0D1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayemishan686&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=nayemishan686&theme=react&hide_border=true&background=0D1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayemishan686&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64ffda&text_color=c9d1d9)
+
 </div>
 
 <br/>
