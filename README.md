@@ -1,22 +1,15 @@
-<div align="center">
-  
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,100:64ffda&height=200&section=header&text=Nayem%20Hossain%20Ishan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20Software%20Engineer%20%7C%20Laravel%20%26%20Vue.js%20Specialist&descAlignY=55&descSize=16"/>
+# Hi, I'm Nayem Hossain Ishan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-  <!-- Typing Animation -->
-  <br/>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=600&height=50&lines=Building+Enterprise+Solutions+at+Scale;Lead+Developer+%40+Dot+NET+IT;Crafting+HisabKori+%26+DailyERP)](https://git.io/typing-svg)
+### Lead Software Engineer @ Dot NET IT
 
-  <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Building+HisabKori+%26+DailyERP;Laravel+%26+Vue.js+Specialist;3%2B+Years+of+Experience)](https://git.io/typing-svg)
 
-  <!-- Quick Links -->
-  [![Portfolio](https://img.shields.io/badge/nayemishan.me-0D1117?style=for-the-badge&logo=googlechrome&logoColor=64ffda)](https://nayemishan.me)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayemhossainishan/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@nayemishan.me)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801637654490)
-  
+[![Portfolio](https://img.shields.io/badge/Portfolio-nayemishan.me-64ffda?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nayemishan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayemhossainishan/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@nayemishan.me)
+
 </div>
+
 
 ---
 
